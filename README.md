@@ -1,17 +1,13 @@
 # carvi
 
-A new Flutter project.
+CarVi is a mobile application that offers the ability to capture photos of vehicles and obtain relevant information about them.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="531" alt="Screenshot 2023-06-21 at 10 44 06 PM" src="https://github.com/Sebas102507/carvi_app/assets/52805660/5db42023-1eff-4b70-9e98-e0fece7c7f94">
 
-A few resources to get you started if this is your first Flutter project:
+<img width="995" alt="Screenshot 2023-06-21 at 10 43 55 PM" src="https://github.com/Sebas102507/carvi_app/assets/52805660/4b5d3964-9034-4641-a1a7-906984c34edb">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# carvi_app
+Check out the presentation a made for a pitch in my Deep Learning Class: ->> 
+<a href="https://www.canva.com/design/DAFkTRpSSxY/ERzWdFnuy07GPqcpEoPODQ/edit?utm_content=DAFkTRpSSxY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Click here</a>
+
